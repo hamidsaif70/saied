@@ -1,4 +1,6 @@
-
+html{
+  overflow-x: hidden;
+}
 :root {
   --primary: #4b2142;
   --secondary: #cde6f5;
